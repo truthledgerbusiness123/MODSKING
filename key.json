@@ -10,14 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "DP-R2N5QC": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-25",
-      "hwid": [
-        "6593d07f0446046b"
-      ]
-    }
-  }
+  "keys": {}
 }
