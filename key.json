@@ -11,13 +11,6 @@
     ]
   },
   "keys": {
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": [
-        "ANY"
-      ]
-    },
     "DP-R2N5QC": {
       "status": "approved",
       "max_devices": 1,
