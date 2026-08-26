@@ -19,7 +19,10 @@
     "MINE": {
       "status": "approved",
       "max_devices": 1,
-      "expiry_date": "2026-08-26"
+      "expiry_date": "2026-08-26",
+      "hwid": [
+        "6593d07f0446046b"
+      ]
     }
   }
 }
