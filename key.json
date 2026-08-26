@@ -15,6 +15,11 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-08-26"
+    },
+    "MINE": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-26"
     }
   }
 }
