@@ -10,5 +10,11 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {}
+  "keys": {
+    "DEMO-01-MODS-KING": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-26"
+    }
+  }
 }
