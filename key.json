@@ -31,6 +31,11 @@
       "hwid": [
         "6593d07f0446046b"
       ]
+    },
+    "DEMO-02-MODS-KING": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-28"
     }
   }
 }
