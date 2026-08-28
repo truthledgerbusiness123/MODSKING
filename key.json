@@ -41,6 +41,11 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-08-28"
+    },
+    "DEMO-03-MODS-KING": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-29"
     }
   }
 }
