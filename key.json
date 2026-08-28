@@ -52,9 +52,7 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-09-28",
-      "hwid": [
-        "2e47edaf8799fe08"
-      ]
+      "hwid": []
     }
   }
 }
