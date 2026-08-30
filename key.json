@@ -69,9 +69,7 @@
       "status": "banned",
       "max_devices": 3,
       "expiry_date": "2026-09-14",
-      "hwid": [
-        "94452d147229e575"
-      ]
+      "hwid": []
     }
   }
 }
